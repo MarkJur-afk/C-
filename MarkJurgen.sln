@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaculateRectangle", "CaculateRectangle\CaculateRectangle.csproj", "{FB329E15-D19C-4F74-9A5D-A81ED73E7349}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkJurgen", "MarkJurgen\MarkJurgen.csproj", "{7FFEC141-C4DD-4517-B7AE-70D59E3D738B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FB329E15-D19C-4F74-9A5D-A81ED73E7349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FB329E15-D19C-4F74-9A5D-A81ED73E7349}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FB329E15-D19C-4F74-9A5D-A81ED73E7349}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FB329E15-D19C-4F74-9A5D-A81ED73E7349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFEC141-C4DD-4517-B7AE-70D59E3D738B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFEC141-C4DD-4517-B7AE-70D59E3D738B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFEC141-C4DD-4517-B7AE-70D59E3D738B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFEC141-C4DD-4517-B7AE-70D59E3D738B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {03B6A3F4-9BBA-4FA7-BB38-6A8E3372207A}
+		SolutionGuid = {1EDDEC8F-7221-430D-AE42-F78066570F42}
 	EndGlobalSection
 EndGlobal
